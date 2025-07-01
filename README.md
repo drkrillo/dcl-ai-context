@@ -3,7 +3,7 @@
 This repository contains an up-to-date Scene template with full Context to feed AI-powered IDEs such as Cursor AI. This enables easy plug-and-play setup for AI-enhanced scene development.
 
 <p align="center">
-  <a href="https://github.com/tu-usuario/tu-repo/generate" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/drkrillo/dcl-ai-context/generate" target="_blank" style="text-decoration: none;">
     <span style="
       display: inline-flex;
       align-items: center;
