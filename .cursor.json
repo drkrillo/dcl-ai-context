@@ -3,6 +3,7 @@
   "context": {
     "include": [
       "context/sdk7-docs/**/*.md",
+      "context/rules/*.mdc",
       "context/examples/**/*.ts",
       "context/examples/**/*.tsx"
     ],
