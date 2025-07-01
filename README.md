@@ -16,8 +16,8 @@ This repository contains an up-to-date Scene template with full Context to feed 
       font-family: sans-serif;
       font-size: 16px;
     ">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/decentraland.svg" alt="Decentraland Logo" width="24" height="24" />
-      Download this template!
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/decentraland.svg" alt="Decentraland Logo" width="48" height="48" />
+      GET THIS TEMPLATE
     </span>
   </a>
 </p>
