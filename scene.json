@@ -4,6 +4,7 @@
   "display": {
     "title": "AI-Context Template for Cursor AI",
     "description": "Empty scene template with context for and config for Cursor AI development.",
+    "navmapThumbnail": "assets/images/scene/scene-thumbnail.png",
     "favicon": "favicon_asset"
   },
   "owner": "",
