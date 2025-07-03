@@ -2,8 +2,8 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "Empty Scene Template",
-    "description": "Empty Scene Template",
+    "title": "AI-Context Template for Cursor AI",
+    "description": "Empty scene template with context for and config for Cursor AI development.",
     "favicon": "favicon_asset"
   },
   "owner": "",
