@@ -2,9 +2,8 @@
   "ecs7": true,
   "runtimeVersion": "7",
   "display": {
-    "title": "SDK7 Scene Template + AI Context",
-    "description": "template scene with SDK7 and context for Cursor AI",
-    "navmapThumbnail": "images/scene-thumbnail.png",
+    "title": "Empty Scene Template",
+    "description": "Empty Scene Template",
     "favicon": "favicon_asset"
   },
   "owner": "",
@@ -45,8 +44,9 @@
       }
     }
   ],
-  "featureToggles": {
-    "voiceChat": "enabled",
-    "portableExperiences": "enabled"
-  }
+  "requiredPermissions": [
+    "ALLOW_TO_TRIGGER_AVATAR_EMOTE",
+    "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE"
+  ],
+  "featureToggles": {}
 }
